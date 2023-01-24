@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I'm an Android developer
-- 🌱 I’m currently learning Android Native
+- 🌱 I’m currently learning Android Native (Java-Kotlin)
 - 💬 Ask me about Android development
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirScience&show_icons=true&hide=contribs,prs,issues&theme=tokyonight) <br /> <br />
