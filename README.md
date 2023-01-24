@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I'm an Android developer
+- 🔭 I'm an Android software engineer
 - 🌱 I’m currently learning Android Native (Java-Kotlin)
 - 💬 Ask me about Android development
 
