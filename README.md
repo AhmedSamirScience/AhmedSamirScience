@@ -7,6 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamirScience&langs_count=8&theme=transparent)](https://github.com/AhmedSamirScience/github-readme-stats)
 
 <!--
+
+https://github.com/anuraghazra/github-readme-stats here is the link
+
 Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirScience&hide=contribs,prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirScience&show_icons=true&hide=contribs,prs,issues&theme=tokyonight) <br /> <br />
