@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Android Native (Java-Kotlin)
 - 💬 Ask me about Android development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirScience&show_icons=true&hide=contribs,prs&theme=tokyonight) <br /> <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirScience&show_icons=true&true=contribs,prs&theme=tokyonight) <br /> <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamirScience&langs_count=8&theme=transparent)](https://github.com/AhmedSamirScience/github-readme-stats)
 
 <!--
