@@ -3,10 +3,21 @@
 - 🌱 I’m currently learning Android Native (Java-Kotlin)
 - 💬 Ask me about Android development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirScience&show_icons=true&hide=contribs,prs&theme=tokyonight) <br /> <br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedSamirScience&show_icons=true&show=contribs,prs&theme=tokyonight) <br /> <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSamirScience&langs_count=8&theme=transparent)](https://github.com/AhmedSamirScience/github-readme-stats)
 
+
+
 <!--
+
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=JobGetabu&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Getabu&show_icons=true&theme=dark&layout=compact" /></td>      
+  </tr>   
+  </table>
+</center>
 
 https://github.com/anuraghazra/github-readme-stats here is the link
 
