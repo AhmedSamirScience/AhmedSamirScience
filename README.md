@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AhmedSamirScience?tab=repositories](https://github.com/AhmedSamirScience?tab=repositories)
 
-- 📝 I regularly write articles on [on Medium, providing actionable insights on software engineering methodologies.](on Medium, providing actionable insights on software engineering methodologies.)
+- 📝 I regularly write articles on Medium, providing actionable insights on software engineering methodologies.
 
 - 💬 Ask me about **Feel free to reach out if you have any questions about Android development, Node.js, MongoDB, MySQL, PostgreSQL, software engineering methodologies, or even if you just want to chat about the latest tech trends!**
 
