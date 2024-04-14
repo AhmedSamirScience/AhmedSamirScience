@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Feel free to reach out if you have any questions about Android development, Node.js, MongoDB, MySQL, PostgreSQL, software engineering methodologies, or even if you just want to chat about the latest tech trends!**
 
-- 📫 How to reach me **- **LinkedIn:** [Ahmed Samir](https://www.linkedin.com/in/ahmedsamir13/) - **Medium:** [Ahmed Samir](https://medium.com/%40ahmed.samir19) - **Email:** ahmed.samirelbakrey@gmail.com**
+- 📫 How to reach me **- **LinkedIn:** [Ahmed Samir](https://www.linkedin.com/in/ahmedsamir13/) - **Medium:** [Ahmed Samir](https://medium.com/@ahmed.samirelbakrey) - **Email:** ahmed.samirelbakrey@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WeBx_hqvOx0sV_qZitBOWc7NHzSNKCdo/view?usp=sharing](https://drive.google.com/file/d/1WeBx_hqvOx0sV_qZitBOWc7NHzSNKCdo/view?usp=sharing)
 
