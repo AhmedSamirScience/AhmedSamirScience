@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Samir Ahmed</h1>
-<h3 align="center">I'm an experienced Android software engineer with a passion for crafting robust and user-friendly mobile applications. With around 3 years of proficiency, I've developed and delivered well-designed software for various projects, ranging from loyalty programs to pioneering government initiatives.</h3>
+<h3 align="center">I'm an experienced Mobile Application Senior Developer with a passion for crafting robust and user-friendly mobile applications. During around 3 years of proficiency, I've developed and delivered well-designed software for various projects, ranging from loyalty programs to pioneering government initiatives.</h3>
 
 
 
