@@ -2,10 +2,9 @@
 <h3 align="center">I'm an experienced Mobile Application Senior Developer with a passion for crafting robust and user-friendly mobile applications. During around 3 years of proficiency, I've developed and delivered well-designed software for various projects, ranging from loyalty programs to pioneering government initiatives.</h3>
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedsamirscience&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedsamirscience" /> </p>
+ 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedsamirscience" alt="ahmedsamirscience" /></a> </p>
 
 - 🌱 I’m currently learning **I'm currently expanding my skills in Flutter and striving to advance my expertise in Node.js, Angular, and React Native. Always eager to explore new technologies and frameworks to stay updated with the latest developments in the tech world! Additionally, I'm learning how to communicate effectively with ChatGPT.**
 
